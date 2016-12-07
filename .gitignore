@@ -1,0 +1,11 @@
+build/
+
+*.exp
+*.sdf
+*.suo
+*.opensdf
+*.db
+*.opendb
+*.ipdb
+*.iobj
+*.vcxproj.user
