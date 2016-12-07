@@ -10,7 +10,13 @@ int _tmain(int argc, _TCHAR* argv[])
 	line_feature_demo demo;
 	demo.initialize();
 
-	kinect2_start();
+	long rec = kinect2_start();
+	if (rec < 0)
+	{
+		printf("Initializing Kinect 2 failed.\n");
+		getchar();
+		return 0;
+	}
 	printf("Waiting for recognition of body skeleton (please make a pose)...\n");
 
 	cv::Mat* cv_frame = NULL;
