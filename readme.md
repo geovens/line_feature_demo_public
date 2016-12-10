@@ -9,7 +9,8 @@ The algorithm is described in http://dx.doi.org/10.1016/j.patcog.2016.11.022.
 <img src=https://raw.githubusercontent.com/geovens/line_feature_demo_public/master/doc/1.jpg width=75 height=100 />
 <img src=https://raw.githubusercontent.com/geovens/line_feature_demo_public/master/doc/2.jpg width=75 height=100 />
 <img src=https://raw.githubusercontent.com/geovens/line_feature_demo_public/master/doc/3.jpg width=75 height=100 />
-<img src=https://raw.githubusercontent.com/geovens/line_feature_demo_public/master/doc/4.jpg width=75 height=100 />
+<img src=https://raw.githubusercontent.com/geovens/line_feature_demo_public/master/doc/4.jpg width=75 height=100 />  
+
 <img src=https://raw.githubusercontent.com/geovens/line_feature_demo_public/master/doc/5.jpg width=75 height=100 />
 <img src=https://raw.githubusercontent.com/geovens/line_feature_demo_public/master/doc/6.jpg width=75 height=100 />
 <img src=https://raw.githubusercontent.com/geovens/line_feature_demo_public/master/doc/7.jpg width=75 height=100 />
