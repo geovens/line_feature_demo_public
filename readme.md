@@ -5,8 +5,7 @@ The algorithm is described in http://dx.doi.org/10.1016/j.patcog.2016.11.022.
 
 #### Postures classified in this demo
 
-![0](https://raw.githubusercontent.com/geovens/line_feature_demo_public/master/doc/0.jpg =150x200)![screenshot](https://raw.githubusercontent.com/geovens/line_feature_demo_public/master/doc/1.jpg)![screenshot](https://raw.githubusercontent.com/geovens/line_feature_demo_public/master/doc/2.jpg)![screenshot](https://raw.githubusercontent.com/geovens/line_feature_demo_public/master/doc/3.jpg)![screenshot](https://raw.githubusercontent.com/geovens/line_feature_demo_public/master/doc/4.jpg)  
-![screenshot](https://raw.githubusercontent.com/geovens/line_feature_demo_public/master/doc/5.jpg)![screenshot](https://raw.githubusercontent.com/geovens/line_feature_demo_public/master/doc/6.jpg)![screenshot](https://raw.githubusercontent.com/geovens/line_feature_demo_public/master/doc/7.jpg)![screenshot](https://raw.githubusercontent.com/geovens/line_feature_demo_public/master/doc/8.jpg)![screenshot](https://raw.githubusercontent.com/geovens/line_feature_demo_public/master/doc/9.jpg)  
+<img src=https://raw.githubusercontent.com/geovens/line_feature_demo_public/master/doc/0.jpg width=150 height=200 />) 
 
 #### Video example
 
