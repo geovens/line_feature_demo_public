@@ -21,8 +21,13 @@ The algorithm is described in http://dx.doi.org/10.1016/j.patcog.2016.11.022.
 
 <a href=https://www.youtube.com/watch?v=AKaphKXfmao><img src=https://img.youtube.com/vi/AKaphKXfmao/0.jpg width=360 height=270 /></a>
 
+#### Download
+
+Download the latest commit as a ZIP file ([direct link](https://github.com/geovens/line_feature_demo_public/archive/master.zip)).  
+
 #### Usage
 
 The demo program runs on 64bit Windows 8 (or newer) with a working 'Kinect for Windows v2' device attached.  
 The pre-build and pre-trained binary is under the bin/ folder.  
-Visual Studio 2015 C++ runtime might be required.
+Visual Studio 2015 C++ runtime might be required.  
+For problems and questions please post an issue or contact us.  
