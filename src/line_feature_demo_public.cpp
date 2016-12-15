@@ -21,7 +21,7 @@ int _tmain(int argc, _TCHAR* argv[])
 
 	cv::Mat* cv_frame = NULL;
 
-	for (int f = 0; f < 2000; f++)
+	for (int f = 0; f < 18000; f++)
 	{
 		Kinect2DepthFrame* kinect2_frame = kinect2_getframesync();
 		if (cv_frame == NULL)
