@@ -19,7 +19,7 @@ The algorithm is described in http://dx.doi.org/10.1016/j.patcog.2016.11.022.
 
 #### Video example
 
-[![video still](<img src=https://img.youtube.com/vi/AKaphKXfmao/0.jpg width=360 height=270 />)](https://www.youtube.com/watch?v=AKaphKXfmao)  
+[![video example][<img src=https://img.youtube.com/vi/AKaphKXfmao/0.jpg width=360 height=270 />]](https://www.youtube.com/watch?v=AKaphKXfmao)  
 
 #### Usage
 
